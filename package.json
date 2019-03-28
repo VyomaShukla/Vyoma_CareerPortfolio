@@ -19,7 +19,7 @@
   },
   "description": "MongoDB demo",
   "main": "server.js",
-  "author": "Maninderpal Singh",
+  "author": "Vyoma Shukla",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imverka/COMP308-W2019-Lesson4A.git"
+    "url": "git+https://github.com/VyomaShukla/Vyoma_CareerPortfolio.git"
   },
   "bugs": {
-    "url": "https://github.com/imverka/COMP308-W2019-Lesson4A/issues"
+    "url": "https://github.com/VyomaShukla/Vyoma_CareerPortfolio/issues"
   },
-  "homepage": "https://github.com/imverka/COMP308-W2019-Lesson4A#readme"
+  "homepage": "https://github.com/VyomaShukla/Vyoma_CareerPortfolio#readme"
 }
